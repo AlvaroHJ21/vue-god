@@ -4,7 +4,7 @@
       <RouterLink to="/sales" class="btn">
         <i class="fa fa-arrow-left" aria-hidden="true"></i>
       </RouterLink>
-      <h1>Nueva venta</h1>
+      <h1 class="text-3xl">Nueva venta</h1>
     </div>
     <div class="flex min-h-[calc(100vh-160px)]">
       <!-- Productos -->

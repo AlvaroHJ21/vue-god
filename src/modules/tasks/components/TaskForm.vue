@@ -3,7 +3,7 @@
   <dialog id="task_form_modal" class="modal">
     <form method="dialog" class="modal-box">
       <div class="mb-3 form-control">
-        <h3 class="text-lg font-bold">Nueva Tarea</h3>
+        <h3 class="text-lg font-bold">Nueva Tareaaaaa</h3>
         <label class="label">
           <span class="label-text">Nombre</span>
         </label>
